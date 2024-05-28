@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         double currentBalance = 100; // Начальная сумма на счету клиента
-        double topUpAmount = 4800; // Сумма пополнения счета
+        double topUpAmount = 300; // Сумма пополнения счета
 
         double bonusPer100Rubles = 1; // Бонус за каждые полные 100 рублей пополнения
         double bonusThreshold = 1000; // Порог для начисления бонуса
